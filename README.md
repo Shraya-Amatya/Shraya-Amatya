@@ -1,6 +1,11 @@
-# 💫 About Me:
-I’m currently Studying BCA<br>I’m looking to collaborate on Students such as myself<br>I’m currently learning Java, JavaScript, Node, Web Development<br>
+<h1 align="center">Hi 👋, I'm Shraya Amatya</h1>
+<h3 align="center">A passionate learner from Nepal</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrayaamatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" /> </p>
+
+- 📫 How to reach me **amatyashraya083@gmail.com**
+
+- ⚡ Fun fact **I am very funny and Tall**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shraya Amatya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amatya.shraya) 
@@ -12,7 +17,7 @@ I’m currently Studying BCA<br>I’m looking to collaborate on Students such as
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraya-Amatya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
