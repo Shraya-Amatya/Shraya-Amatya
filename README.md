@@ -2,11 +2,18 @@ Shraya Amatya - Passionate Learner from Nepal 👨‍💻
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shrayaamatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
 </p>
+
 <h3 align="center">Let's Connect 🌐</h3>
 <p align="center">
-  <a href="mailto:amatyashraya083@gmail.com">📫 Email</a> |
-  <a href="https://www.facebook.com/profile.php?id=100086757128752&mibextid=LQQJ4d">Facebook</a> |
-  <a href="https://instagram.com/amatya.shraya">Instagram</a>
+  <a href="mailto:amatyashraya083@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> |
+  <a href="https://www.facebook.com/profile.php?id=100086757128752&mibextid=LQQJ4d">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a> |
+  <a href="https://instagram.com/amatya.shraya">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 💻 Tech Stack:
 <p align="center">
