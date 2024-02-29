@@ -16,9 +16,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraya-Amatya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrayaamatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="shrayaamatya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="shraya-amatya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrayaamatya&show_icons=true&theme=radical&locale=en" alt="shrayaamatya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="shraya-amatya" /></p>
 
 ### 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
