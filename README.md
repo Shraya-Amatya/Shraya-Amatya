@@ -30,8 +30,9 @@ Shraya Amatya - Passionate Learner from Nepal 👨‍💻
   <img src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
 Random Meme for a Smile 😄
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
-
+<p align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 350px;" alt="Random Meme"/>
+</p>
 
 
 
