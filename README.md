@@ -28,7 +28,6 @@ Shraya Amatya - Passionate Learner from Nepal 👨‍💻
 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraya-Amatya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
