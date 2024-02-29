@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraya-Amatya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Meme
+### 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
