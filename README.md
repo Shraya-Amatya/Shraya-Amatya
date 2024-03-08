@@ -1,6 +1,6 @@
 Shraya Amatya - Passionate Learner from Nepal 👨‍💻
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrayaamatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
+  <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
 </p>
 <h3 align="center">Let's Connect 🌐</h3>
 <p align="center">
