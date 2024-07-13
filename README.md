@@ -1,22 +1,23 @@
-Shraya Amatya - Passionate Learner from Nepal 👨‍💻
+# Shraya Amatya - Passionate Learner from Nepal 👨‍💻
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
 </p>
-<h3 align="center">Let's Connect 🌐</h3>
+
+## Let's Connect 🌐
 <p align="center">
   <a href="mailto:shrayaamatya7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> |
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100086757128752&mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-  </a> |
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://instagram.com/amatya.shraya">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-
-💻 Tech Stack:
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -26,20 +27,15 @@ Shraya Amatya - Passionate Learner from Nepal 👨‍💻
   <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" alt="Adobe Lightroom Classic" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
-📊 GitHub Stats:
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
-Random Meme for a Smile 😄
+
+## Random Meme for a Smile 😄
 <p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 350px;" alt="Random Meme"/>
+  <img src="https://random-memer.herokuapp.com/" style="height: 350px;" alt="Random Meme"/>
 </p>
-
-
-
