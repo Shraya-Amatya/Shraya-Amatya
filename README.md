@@ -35,6 +35,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Random Meme for a Smile 😄
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" style="height: 350px;" alt="Random Meme"/>
