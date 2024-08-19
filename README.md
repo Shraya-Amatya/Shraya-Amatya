@@ -1,8 +1,9 @@
-Shraya Amatya - Passionate Learner from Nepal 👨‍💻
+# Shraya Amatya - Passionate Learner from Nepal 👨‍💻
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
 </p>
-Let's Connect 🌐
+
+## Let's Connect 🌐
 <p align="center">
   <a href="mailto:shrayaamatya7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -14,7 +15,8 @@ Let's Connect 🌐
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-💻 Tech Stack
+
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -25,14 +27,21 @@ Let's Connect 🌐
   <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" alt="Adobe Lightroom Classic" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
-📊 My Stats
+
+## 📊 My Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## 🎭 Meme of the Day
+<p align="center">
+  <img src="https://api.memegen.link/images/harold/I_love_coding!/_But_it_never_works.png" alt="Meme" />
+</p>
