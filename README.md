@@ -1,7 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=5000&lines=Hi+There!+👋;+I'm+Shraya+Amatya!;+FullStack+Web+Developer+in+the+Making&color=#aa6f73" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=5000&lines=Hi+There!;&color=ff6f61" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=5000&lines=I'm+Shraya+Amatya!&color=00aaff" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=5000&lines=FullStack+Web+Developer+in+the+Making&color=f39c12" />
 </h1>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
