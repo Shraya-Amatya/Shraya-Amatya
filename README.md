@@ -1,4 +1,6 @@
-# Shraya Amatya - Aspiring Full-Stack Developer from Nepal 👨‍💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shraya+Amatya!;&color=ff6f61&background=000000" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="shrayaamatya" />
