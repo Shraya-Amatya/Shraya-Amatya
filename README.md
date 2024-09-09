@@ -1,8 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=33&center=true&vCenter=true&width=500&height=100&duration=4200&lines=Hello&color=ff6f61" alt="Namaste!" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=800&height=100&duration=4100&lines=I'm+Shraya+Amatya!&color=00aaff" alt="I'm Shraya Amatya!" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=FullStack+Web+Developer+in+the+Making&color=f39c12" alt="FullStack Developer" />
-</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=33&center=true&vCenter=true&width=500&height=100&duration=4200&lines=Hello&color=ff6f61" alt="Namaste!" /><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=800&height=100&duration=4100&lines=I'm+Shraya+Amatya!&color=00aaff" alt="I'm Shraya Amatya!" /><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=FullStack+Web+Developer+in+the+Making&color=f39c12" alt="FullStack Developer" /></h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
