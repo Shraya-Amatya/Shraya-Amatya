@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="mailto:shrayaamatya7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100086757128752&mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/amatya.shraya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/people/Shraya-Amatya/pfbid025iq78hSBZuBSzUgCPBJMvTBtegm5YaFjFMrmYLysVQkUn5wicRgHtnizdkEN9EMel/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/amatya_shraya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
