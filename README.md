@@ -1,142 +1,68 @@
-<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hello;+I'm+Shraya+Amatya!;+FullStack+Web+Developer+in+the+making" />
+</h1>
 
-# Hi, I'm Shraya Amatya 👋
-### Web Developer
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shraya-Amatya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I build clean, responsive, and practical web experiences.
+---
 
-<br>
+## 🌐 Let's Connect
 
-<a href="mailto:shrayaamatya7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shrayaamatya7%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-<a href="https://instagram.com/amatya_shraya">
-  <img src="https://img.shields.io/badge/Instagram-amatya__shraya-181717?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/people/Shraya-Amatya/pfbid025iq78hSBZuBSzUgCPBJMvTBtegm5YaFjFMrmYLysVQkUn5wicRgHtnizdkEN9EMel/">
-  <img src="https://img.shields.io/badge/Facebook-Shraya_Amatya-181717?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook"/>
-</a>
+<p align="center">
+  <a href="mailto:shrayaamatya7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/people/Shraya-Amatya/pfbid025iq78hSBZuBSzUgCPBJMvTBtegm5YaFjFMrmYLysVQkUn5wicRgHtnizdkEN9EMel/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/amatya_shraya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-</div>
+---
 
-<br>
+## 💻 Tools & Technologies
 
-## About Me
+### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-I'm a Web Developer focused on building modern websites and web applications that are clean, responsive, and easy to use.
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+</p>
 
-I enjoy working across frontend and backend development, turning ideas into functional digital products and continuously improving the way I design and build.
+### Other Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/CSharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
 
-- 💻 Focused on modern web development
-- 🎨 Interested in clean UI and responsive design
-- ⚙️ Building practical full-stack applications
-- 📚 Always learning and improving
+---
 
-<br>
+## 📊 GitHub Stats
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraya-Amatya&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
 
-**Main Technologies**
+---
 
-`React` `Node.js` `JavaScript` `HTML` `CSS` `SQL` `Express.js`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql,express,postgres,git,github,vscode&theme=dark" alt="Tech Stack Icons"/>
-</div>
+---
 
-<br>
-
-**What I Work With**
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-- Responsive Web Design
-
-</td>
-<td width="33%" valign="top">
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Server-side logic
-
-</td>
-<td width="33%" valign="top">
-
-**Database & Tools**
-- MySQL
-- PostgreSQL
-- Git
-- GitHub
-- VS Code
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Currently Focused On
-
-```text
-Building better web applications
-Improving frontend design
-Developing reliable backend systems
-Working with APIs and databases
-Writing cleaner and maintainable code
-```
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shraya-Amatya&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="Shraya's GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Shraya-Amatya&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Shraya's GitHub Streak"/>
-
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraya-Amatya&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
-<br>
-
-## Contribution Snake
-
-<div align="center">
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:shrayaamatya7@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Build. Learn. Improve.**
-
-<sub>© Shraya Amatya</sub>
-
-</div>
